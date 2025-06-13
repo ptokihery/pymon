@@ -71,4 +71,3 @@ password = yourpassword
 ```bash
 ./pymon -c config.conf 
 ```
-# pymon
