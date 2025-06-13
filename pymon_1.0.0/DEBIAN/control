@@ -1,0 +1,8 @@
+Package: pymon
+Version: 1.0.0
+Section: base
+Priority: optional
+Architecture: amd64
+Maintainer: Tokihery <tokihery15@gmail.com>
+Description: pymon - Simple Go app for alerting the user for system events
+ A minimal Go application packaged for Linux as a .deb
